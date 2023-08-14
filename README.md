@@ -1,10 +1,5 @@
 ### Hi there 👋
 
-<!--
-**erendoyan/erendoyan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on Python, C, C++ and MATLAB. I'm interested in Deep Learning and Computer Vision.
 - ✍ I'm 2nd class student in Atılım University. My Departmant is Electrical-Electronics Engineering.
 - 💻 I'm AI & Computer Vision Engineer at Dimotech. Dimotech is our enterprise which started in July 2023. Dimotech aims to be a pioneer in smart cities and transportation with its own rotation application and autonomous taxis.
